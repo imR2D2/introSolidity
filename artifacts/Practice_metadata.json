@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "Person",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "favoriteNumber",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "name",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Practice.sol": "Practice"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Practice.sol": {
+			"keccak256": "0xf934acd8aa3f4d164d1469b8df871b9aa01dea54fb79a0c2e22598e90c0de9f5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fa1fbf831d0da0b029c2b53e0c01dd5208a740a33c04bc05be573f65ff1456ee",
+				"dweb:/ipfs/QmQcF5PUcP4TvQEShQwgnUmNZPmuPaFkg94ma5US8GNBYj"
+			]
+		}
+	},
+	"version": 1
+}

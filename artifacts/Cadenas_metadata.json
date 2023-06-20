@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "hola",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Cadenas.sol": "Cadenas"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Cadenas.sol": {
+			"keccak256": "0x059fd048d47438d7043cb628d5df85794e558d6395a61c14b494b33de5f11117",
+			"urls": [
+				"bzz-raw://18b18ff5d170332e7ed72fbd8465ec93c3ec750093e47d3e6c1a4caabb8d22d4",
+				"dweb:/ipfs/QmcEr3AtZcqBeibLS6nNfP7feYVV2zzunma72NyXfk6Kxb"
+			]
+		}
+	},
+	"version": 1
+}

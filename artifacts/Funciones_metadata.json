@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "sumaValores",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"funciones.sol": "Funciones"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"funciones.sol": {
+			"keccak256": "0xee7edefc561c4b9022974ff18acf7f72df1eed99af7f619c0a27031cb6fc4ea0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://226f44323d66e43de6b91f5dc714aa4dc1dc021ee3694df22e6f880a66665ae0",
+				"dweb:/ipfs/QmcHzZy2MsRmtHK2Xt5s92o3KvEsmG2RgGMMnf5RWkqF3r"
+			]
+		}
+	},
+	"version": 1
+}

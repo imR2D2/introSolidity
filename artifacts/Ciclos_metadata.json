@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "numero",
+						"type": "uint256"
+					}
+				],
+				"name": "forCiclo",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "numerosPares",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Ciclos.sol": "Ciclos"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Ciclos.sol": {
+			"keccak256": "0xcad83b7e69cb0288e8cf26206395d241a0a256d77985ef9286f5dd265821d1a8",
+			"urls": [
+				"bzz-raw://724ac5891c457a96bb5f34b56dee26b083204f759203c922aec4998e5e272c1e",
+				"dweb:/ipfs/QmZA49skNV7fZ6drnyPFc3WMyVToEhbqaXWyj3Fgc9cTvz"
+			]
+		}
+	},
+	"version": 1
+}
